@@ -17,7 +17,7 @@ Before running the script, ensure you have the following installed:
    sitemap_index_url = "https://example.com/sitemap_index.xml"  # Replace with the URL of your sitemap index
 Run the script using Python:
 Copy code
-python sitemap_extractor.py
+python extract.py
 How it works
 The script performs the following steps:
 
